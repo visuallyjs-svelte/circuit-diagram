@@ -1,0 +1,399 @@
+{
+  "nodes": [
+    {
+      "x": 490,
+      "y": 410,
+      "type": "battery",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "rotation": 90,
+      "id": "de0c11d6-6c30-4408-a91a-dbc16ca9b6fe",
+      "label": "B1",
+      "voltage": "9V",
+      "z": 8
+    },
+    {
+      "x": 370,
+      "y": 10,
+      "type": "pushButton",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "id": "1504af2b-5372-43e6-a19b-bbc19022ff34",
+      "label": "S1",
+      "z": 6
+    },
+    {
+      "x": 240,
+      "y": 410,
+      "type": "resistor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "rotation": 90,
+      "resistance": "1K",
+      "id": "89db6455-71ff-4ae5-8b4a-76d7f9606cb3",
+      "label": "R4",
+      "z": 13
+    },
+    {
+      "x": 430,
+      "y": 500,
+      "type": "junction",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 20,
+      "height": 20,
+      "id": "44a79ef4-4e76-4422-9349-5ed328a5f0c7",
+      "z": 4
+    },
+    {
+      "x": 380,
+      "y": 310,
+      "type": "speaker",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "rotation": 90,
+      "id": "71f8b5c1-4733-4175-a988-598b7a73d9aa",
+      "label": "Out",
+      "z": 21
+    },
+    {
+      "x": 150,
+      "y": 220,
+      "type": "npnTransistor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "id": "4f591bb4-94d2-45f2-8785-cc757cd87758",
+      "label": "Q1",
+      "partNumber": "2N3904",
+      "z": 9
+    },
+    {
+      "x": 210,
+      "y": 70,
+      "type": "resistor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "rotation": 90,
+      "id": "63ec6e91-96ff-4043-9c2d-faf783ea7ee9",
+      "label": "R3",
+      "resistance": "10K",
+      "z": 10
+    },
+    {
+      "x": -100,
+      "y": 120,
+      "type": "resistor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "rotation": 90,
+      "id": "d8578024-fd53-490b-8cf3-04f31fed12e9",
+      "label": "R1",
+      "resistance": "27K",
+      "z": 11
+    },
+    {
+      "x": -100,
+      "y": 340,
+      "type": "microphone",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "rotation": 90,
+      "id": "10f3d440-a565-4f3e-9e88-abf407ddec81",
+      "label": "MIC1",
+      "z": 12
+    },
+    {
+      "x": -20,
+      "y": 220,
+      "type": "capacitor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "id": "ff7678ba-c15e-4594-a3ca-d659c40c4528",
+      "label": "C1",
+      "capacitance": "10μF",
+      "z": 17
+    },
+    {
+      "x": 310,
+      "y": 130,
+      "type": "capacitor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "id": "8bf50c18-3ff1-4bbb-aba4-d45c6beec541",
+      "label": "C2",
+      "capacitance": "10μF",
+      "z": 16
+    },
+    {
+      "x": 110,
+      "y": 250,
+      "type": "junction",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 20,
+      "height": 20,
+      "id": "b8c4eb54-c9c6-4e38-ab19-f38509fbafb8",
+      "z": 20
+    },
+    {
+      "x": 120,
+      "y": 130,
+      "type": "resistor",
+      "fill": "#FFFFFF",
+      "outline": "#000000",
+      "outlineWidth": 2,
+      "color": "#000000",
+      "category": "electronics-components",
+      "width": 120,
+      "height": 80,
+      "id": "feb195fa-19a5-4503-a66d-5408058ba779",
+      "label": "R2",
+      "resistance": "100K",
+      "z": 19
+    }
+  ],
+  "edges": [
+    {
+      "source": "de0c11d6-6c30-4408-a91a-dbc16ca9b6fe.pos",
+      "target": "1504af2b-5372-43e6-a19b-bbc19022ff34.p2",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "1504af2b-5372-43e6-a19b-bbc19022ff34.p1",
+      "target": "63ec6e91-96ff-4043-9c2d-faf783ea7ee9.p1",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": -1,
+            "oy": 0
+          }
+        },
+        "id": "42d48c56-afef-4567-b45f-8cfa2d87b1aa",
+        "type": "default"
+      }
+    },
+    {
+      "source": "89db6455-71ff-4ae5-8b4a-76d7f9606cb3.p2",
+      "target": "44a79ef4-4e76-4422-9349-5ed328a5f0c7",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": 1,
+            "oy": 0
+          }
+        },
+        "type": "default"
+      }
+    },
+    {
+      "source": "89db6455-71ff-4ae5-8b4a-76d7f9606cb3.p1",
+      "target": "4f591bb4-94d2-45f2-8785-cc757cd87758.emitter",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "44a79ef4-4e76-4422-9349-5ed328a5f0c7",
+      "target": "de0c11d6-6c30-4408-a91a-dbc16ca9b6fe.neg",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": 1,
+            "oy": 0
+          }
+        },
+        "type": "default"
+      }
+    },
+    {
+      "source": "44a79ef4-4e76-4422-9349-5ed328a5f0c7",
+      "target": "71f8b5c1-4733-4175-a988-598b7a73d9aa.p2",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "4f591bb4-94d2-45f2-8785-cc757cd87758.collector",
+      "target": "63ec6e91-96ff-4043-9c2d-faf783ea7ee9.p2",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": 1,
+            "oy": 0
+          }
+        },
+        "id": "875f1464-c272-4734-95db-7a1491ff0385",
+        "type": "default"
+      }
+    },
+    {
+      "source": "4f591bb4-94d2-45f2-8785-cc757cd87758.base",
+      "target": "b8c4eb54-c9c6-4e38-ab19-f38509fbafb8",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "63ec6e91-96ff-4043-9c2d-faf783ea7ee9.p2",
+      "target": "8bf50c18-3ff1-4bbb-aba4-d45c6beec541.p1",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "63ec6e91-96ff-4043-9c2d-faf783ea7ee9.p2",
+      "target": "feb195fa-19a5-4503-a66d-5408058ba779.p2",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "63ec6e91-96ff-4043-9c2d-faf783ea7ee9.p1",
+      "target": "d8578024-fd53-490b-8cf3-04f31fed12e9.p1",
+      "data": {
+        "id": "2c1a1fa8-95b8-4804-9d33-b66db7590524",
+        "type": "default"
+      }
+    },
+    {
+      "source": "10f3d440-a565-4f3e-9e88-abf407ddec81.p1",
+      "target": "d8578024-fd53-490b-8cf3-04f31fed12e9.p2",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": -1,
+            "oy": 0
+          }
+        },
+        "id": "b28629fb-f8f2-409a-92d9-11fc30facfdd",
+        "type": "default"
+      }
+    },
+    {
+      "source": "10f3d440-a565-4f3e-9e88-abf407ddec81.p1",
+      "target": "ff7678ba-c15e-4594-a3ca-d659c40c4528.p1",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "10f3d440-a565-4f3e-9e88-abf407ddec81.p2",
+      "target": "89db6455-71ff-4ae5-8b4a-76d7f9606cb3.p2",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": 1,
+            "oy": 0
+          }
+        },
+        "id": "9685adf3-7e86-43f8-a9d7-0e48c19b668f",
+        "type": "default"
+      }
+    },
+    {
+      "source": "8bf50c18-3ff1-4bbb-aba4-d45c6beec541.p2",
+      "target": "71f8b5c1-4733-4175-a988-598b7a73d9aa.p1",
+      "data": {
+        "anchors": {
+          "source": {
+            "x": 0.5,
+            "y": 0.5,
+            "ox": 1,
+            "oy": 0
+          }
+        },
+        "id": "30bbf27c-04c6-4fe8-a3ef-59d56121bbe7",
+        "type": "default"
+      }
+    },
+    {
+      "source": "b8c4eb54-c9c6-4e38-ab19-f38509fbafb8",
+      "target": "ff7678ba-c15e-4594-a3ca-d659c40c4528.p2",
+      "data": {
+        "type": "default"
+      }
+    },
+    {
+      "source": "b8c4eb54-c9c6-4e38-ab19-f38509fbafb8",
+      "target": "feb195fa-19a5-4503-a66d-5408058ba779.p1",
+      "data": {
+        "anchors": {
+          "source": "Center"
+        },
+        "id": "8d201cfc-2a57-46f6-90b3-a0c21cc2d135",
+        "type": "default"
+      }
+    }
+  ],
+  "groups": []
+}
