@@ -1,10 +1,8 @@
 <script>
-    import {ColorPickerComponent, InspectorComponent, useDiagram} from "@visuallyjs/browser-ui-svelte"
+    import {ColorPickerComponent, InspectorComponent, useDiagram, ShapePropertiesInspector} from "@visuallyjs/browser-ui-svelte"
     import { isNode } from "@visuallyjs/browser-ui"
-    import ShapePropertiesInspector from "./ShapePropertiesInspector.svelte";
 
     let current = $state(null)
-    const diagram = useDiagram()
 </script>
 
 <InspectorComponent bind:current={current}>
@@ -29,10 +27,6 @@
                     <label>Label</label>
                     <input type="text" vjs-att="label" placeholder="Label"/>
                 </div>
-				<div class="vjs-inspector-field">
-					<label>Color</label>
-					<ColorPickerComponent propertyName="outline"/>
-				</div>
                 <ShapePropertiesInspector vertex={current}/>
             </div>
         </div>
