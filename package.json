@@ -1,7 +1,7 @@
 {
   "name": "visuallyjs-svelte-circuit-diagram",
   "private": true,
-  "version": "1.2.8",
+  "version": "1.2.13",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@visuallyjs/browser-ui-svelte": "^1.2.8"
+    "@visuallyjs/browser-ui-svelte": "^1.2.13"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^6.2.1",
